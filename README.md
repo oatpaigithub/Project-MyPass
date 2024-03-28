@@ -6,7 +6,7 @@ This programme is the password management utility for the Windows operating syst
 * C#
 * Microsoft.EntityFrameworkCore              Version 3.1.22
 * Microsoft.EntityFrameworkCore.Sqlite       Version 3.1.22
-* Azure.Storage.Blobs                        Version 12.x.x           
+* Azure.Storage.Blobs                        Version 12.19.1           
 * CsvHelper                                  Version 31.0.0
 ### Installing
 #### Microsoft.EntityFrameworkCore
@@ -19,5 +19,9 @@ Install-Package Microsoft.EntityFrameworkCore.Sqlite -Version 3.1.22
 ```
 #### Azure.Storage.Blobs 
 ```md
-Install-Package Azure.Storage.Blobs
+Install-Package Azure.Storage.Blobs -Version 12.19.1 
+```
+#### CsvHelper
+```md
+Install-Package CsvHelper -Version 31.0.0
 ```
