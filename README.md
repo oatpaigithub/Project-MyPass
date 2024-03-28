@@ -1,5 +1,5 @@
 # MyPass
-This programme is the password management utility for the Windows operating system that helps users manage and store their passwords securely. It has main features called Hydra that help distribute risk, enhance security, and help manage when the system is compromised.
+This programme is the password management utility for the Windows operating system that helps users manage and store their passwords securely. It has main features called **Hydra** that help distribute risk, enhance security, and help manage when the system is compromised.
 ## Getting Started
 ### Prerequisites
 * Visual Studio 2019
