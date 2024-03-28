@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34301.259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestFunctionSQL", "TestFunctionSQL\TestFunctionSQL.csproj", "{F6F6E61D-288E-4407-BF13-B3CF17D412BA}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "StorageSetup", "StorageSetup\StorageSetup.vdproj", "{58490544-0DA1-475C-823E-7F216A7D0589}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "MyPass", "MyPass\MyPass.vdproj", "{A5D650FD-5894-424C-887F-82CBFD74EB46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6F6E61D-288E-4407-BF13-B3CF17D412BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6F6E61D-288E-4407-BF13-B3CF17D412BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6F6E61D-288E-4407-BF13-B3CF17D412BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6F6E61D-288E-4407-BF13-B3CF17D412BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58490544-0DA1-475C-823E-7F216A7D0589}.Debug|Any CPU.ActiveCfg = Release
+		{58490544-0DA1-475C-823E-7F216A7D0589}.Release|Any CPU.ActiveCfg = Release
+		{A5D650FD-5894-424C-887F-82CBFD74EB46}.Debug|Any CPU.ActiveCfg = Release
+		{A5D650FD-5894-424C-887F-82CBFD74EB46}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6F58233-6981-4594-8C74-7D89C26D7301}
+	EndGlobalSection
+EndGlobal
